@@ -1,0 +1,11 @@
+Variables : Las variables son datos reservados para utilizar mas adelante.
+Strings : son un tipo de datos, las strings son las palabras siempre encerradas por comillas simples o dobles.
+Funciones (argumentos, return) : las funciones son acciones que codificamos para que nuestro programa haga determinada
+ accion. Las funciones pueden tomas argumentos o no, los argumentos son los datos necesarios para que nuestra funcion
+ cumpla su accion, por ejemplo para realizar una suma el argumento serian los dos numeros a sumar. La declaracion return
+ es la forma en que nuestra funcion puede, por asi decirlo, liberar los datos que se procesaron de otra forma no
+ podrian usarse el resultado de nuestra funcion.
+Declaraciones if: if es una forma abrir nuevos caminos por los que ira nuestro codigo, mediante un una declaracion
+que puede ser verdadera o falsa nuestro codigo eligira uno u otro camino definidos por nosotros. 
+Valores booleanos (true, false): los valores booleanos son valores que aceptan o niegan o niegan una declaracion
+dada con anterioridad.

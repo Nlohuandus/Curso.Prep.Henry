@@ -1,0 +1,21 @@
+for: for es una funcion predefinida que nos ayuda
+a recorrer una cierta cantidad de objetos por ej. numeros,
+letras de una palabra, objetos de una lista etc. dentro de
+el for nosotros establecemos desde donde se empieza a contar y
+donde se termina de contar.
+
+&&: AND es una comparacion entre dos o mas cosas que
+que da como resultado verdadero o falso segun el caso.
+Para que sea verdadero ambas condiciones tienen que ser
+verdad, y basta con que una sola no lo sea para que 
+toda la declaracion sea falsa.
+
+||: OR es una comparacion donde basta con que una sola
+de las condiciones a comparar sea verdadera para que 
+toda la declaracion sea verdadera o falsa segun sea lo que se busque.
+
+!: NOT es un operador para negar estados o comparaciones
+se si tenes algo verdadero pero se le agrega ! significa 
+en adelante pasa a ser falso. Puede ser usado ademas de en operadores
+logicos en operadores matematicos por ejemplo != significa no es igual
+o !< no es menor.

@@ -1,0 +1,5 @@
+Arrays: los arrays o listas podemos pensarlas como 
+cajas que almacenan cosas, en JS podemos almacenar numeros, strings, booleano y 
+todo tipo de datos hasta funciones. Una vez almacenadas pueden ser siempre
+accedidas a ellas sabiendo el "numero" de la caja en donde
+se guardo. En programcion las listas empiezan siempre a contarse desde 0.

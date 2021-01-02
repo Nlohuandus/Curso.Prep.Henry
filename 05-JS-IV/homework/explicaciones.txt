@@ -1,0 +1,27 @@
+Objetos: los objetos son parecidos a las listas o 
+matrices pero toda la informacion que contienen dentro
+de ellas hace referencia a una misma cosa, es como un 
+conjunto de caracteristicas que le dan forma a algo.
+
+
+propiedades: son cada una de las descripciones o caracteristicas de 
+el objeto definidas por quien las crea se escriven en la forma de
+valor:clave, donde valor es el nombre de esta "descripcion" y clave su 
+descripcion en si.
+
+metodos: los metodos son funciones almacenadas dentro de objetos
+que cumplen una funcion para el mismo, puede ser modificandolo o
+"enviando" informacion del objeto fuera de este, como por ejemplo accediendo
+a sus valores o claves.
+
+bucle for... in: como cada propiedad de los objetos no contiene un
+valor numerico asociado a ella no podemos recorrer todas sus propiedades 
+con un bucle convencional, en su lugar se utiliza un bucle que 
+referencia a todas sus claves con la palabra clave "in" que hace 
+referencia a que se encuentra dentro y tiene forma de:
+ for (clave in "nombre del objeto") este bucle devolvera cada valor:clave almacenada
+ en el objeto.
+
+ notacion de puntos vs. notacion de corchetes: la notacion de punto toma la forma de nombreDelObjeto.claveALaQueSeQuiereAcceder 
+ y la notacion de corchetes nombreDelObjeto['claveALaQueSeQuiereAcceder']. Su funcionalidad es similar pero en general la notacion
+ de punto se utiliza para metodos porque es mas simple el llamar a un metodo de la forma nombreDelObjeto.metodo().

@@ -1,0 +1,4 @@
+funciones callbacks: los callbacks son llamadas a otras funciones
+dentro de una funcion. si necesitamos hacer una tarea dentro de una 
+funcion pero esa tarea ya la realiza otra funcion podemos hacer un 
+callback para no tener que escribir esa funcion nuevamente.

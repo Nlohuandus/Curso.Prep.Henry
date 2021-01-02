@@ -1,0 +1,10 @@
+prototype: el prototipo es el "objeto mayor" del cual nuestro objeto 
+hereda metodos, es la forma mas basica de el objeto que nosotros vayamos
+a crear y en el se define la forma basica que nuestro objeto va a 
+adoptar, que valores base debe tener que metodos tiene que usar etc.
+
+constructores: Los contructores son la forma en que de predefine por nosotros 
+la estructura de un objeto especifico, es donde definimos como se va a crear, 
+por lo que si quisieramos que nuestros objetos esten definidos por un nuevo 
+valor bastaria solo con modificar el contructor y de ahora en mas todos nuestros 
+objetos tendrian la el nuevo valor dentro de si. 

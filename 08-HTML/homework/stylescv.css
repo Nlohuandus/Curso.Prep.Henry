@@ -1,0 +1,47 @@
+img{
+    float: right;
+    margin: 0 0 1em 1em;
+    width: 232px;
+    height: 232px;
+    max-width: 50%;
+    max-height: 50%;
+    
+}
+#titulos{
+    text-align: center;
+}
+#divisor{
+    padding: 3px ;
+    background-color: slategrey;
+    margin-left: auto;
+    margin-right: auto;
+}
+#subtitulos{
+    padding: 3px ;
+    background-color: slategrey;
+    margin-left: auto;
+    margin-right: auto;
+}
+#textoGeneral{
+    position: relative;
+    text-align: center;
+    font-size: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#aclaracionAlPie{
+    font-size:small;
+    text-align: right;
+}
+#descripcionEmpleo{
+    border-style: double;
+    border-color: slategrey;
+    justify-content: right;
+    text-align: left;
+    font-size: 18px;
+}
+#skills{
+    column-count: 3;
+    text-align: justify;
+}

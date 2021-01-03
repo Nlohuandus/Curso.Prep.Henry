@@ -1,17 +1,29 @@
 h1{
     color:darkolivegreen;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 img{
     width: 400px;
 }
-thirdDiv{
+#thirdDiv{
     width: 500px;
     height: 600px;
-    background-color: darkslategrey;
+    background-color: ghostwhite;
     padding: 50px;
-    border: olivedrab dotted 10px;
+    border: 3px ridge gainsboro;
+    margin-right: auto;
+    margin-left: auto;
 }
-spanId{
+#spanId{
     font-size: 18px;
-    margin: 50px;
+}
+body{
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-linea-elegante-hexagonal-patron_1017-19742.jpg?size=626&ext=jpg&ga=GA1.2.160676509.1594598400);
+}
+#divClass{
+    max-width: 600px;
+    text-align: center;
+    margin: auto;
 }

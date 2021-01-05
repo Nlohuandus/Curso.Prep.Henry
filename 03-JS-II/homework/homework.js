@@ -74,7 +74,7 @@ function esPrimo(numero) {
   // Nota: Los números 0 y 1 NO son considerados números primos
   var CantDivisores = 0;
   for (var i=0; i <= numero; i++){
-    if (numero % i === 0) {
+    if ( (numero > 1) && (numero % i === 0)) {
       CantDivisores++;
     }
   }
